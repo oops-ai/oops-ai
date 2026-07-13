@@ -1,22 +1,26 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A855F7,100:06B6D4&height=220&section=header&text=Sriya%20Chowdary%20Chava&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Enthusiast%20%7C%20Building%20the%20Future%20with%20AI&descSize=18&descAlignY=55&descColor=FFFFFF" width="100%" />
+
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Sriya!;AI%2FML+Enthusiast+%7C+Python+Developer;Building+the+future+with+AI+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=45&lines=%E2%9C%A8+Welcome+to+my+digital+playground!;%F0%9F%A4%96+Training+models+%26+breaking+things;%F0%9F%94%AC+Exploring+the+frontiers+of+AI;%F0%9F%92%A1+Turning+data+into+magic;%F0%9F%9A%80+One+epoch+at+a+time..." alt="Typing SVG" /></a>
 
 <br/>
+<br/>
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=oops-ai&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/oops-ai?tab=followers"><img src="https://img.shields.io/github/followers/oops-ai?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"></a>
+<a href="https://github.com/oops-ai"><img src="https://img.shields.io/badge/Profile%20Views-blueviolet?style=for-the-badge&logo=github" alt="Profile Views" /></a>
+<img src="https://komarev.com/ghpvc/?username=oops-ai&style=for-the-badge&color=blueviolet" alt="Views" />
+<a href="https://github.com/oops-ai?tab=followers"><img src="https://img.shields.io/github/followers/oops-ai?style=for-the-badge&color=ff6b6b&labelColor=1a1b27&logo=github" alt="Followers"></a>
+<a href="https://github.com/oops-ai?tab=repositories"><img src="https://img.shields.io/badge/Repos-2-06B6D4?style=for-the-badge&logo=github&labelColor=1a1b27" alt="Repos"></a>
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4OGZ2Y2R6OHFkNnRhZG1hNm1iMHd4c2VheTZrMjRxZTd0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qBpgGEjQCJMdUKXnQL/giphy.gif" width="250" />
 
 ```console
 sriya@oops-ai:~$ whoami
@@ -41,66 +45,73 @@ sriya@oops-ai:~$ exit
 > Thanks for dropping by! Let's build something amazing together! 💜
 ```
 
----
+<br clear="both"/>
 
-## ⚡ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <div align="center">
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI Skills" />
+</p>
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 💻 Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux&theme=dark" alt="Tools" />
+</p>
+
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQFODhk/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=oops-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oops-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=oops-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=A855F7&text_color=FFFFFF&count_private=true&ring_color=A855F7" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oops-ai&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=06B6D4&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-ai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=oops-ai&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=oops-ai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oops-ai&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oops-ai&bg_color=0D1117&color=A855F7&line=FF6B6B&point=06B6D4&area=true&area_color=A855F7&hide_border=true&custom_title=Sriya's%20Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Watch My Contributions Get Eaten
 
@@ -114,28 +125,32 @@ sriya@oops-ai:~$ exit
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Random Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-### 💜 Let's Connect!
+## 💜 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriyachowdary3434@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oops-ai)
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:sriyachowdary3434@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" /></a>
+<a href="https://github.com/oops-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>
+<a href="https://kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF" alt="Kaggle" /></a>
 
 <br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%A4%9D+Open+to+collaborations+%26+opportunities!" alt="Footer Typing" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:A855F7,100:06B6D4&height=120&section=footer" width="100%" />
