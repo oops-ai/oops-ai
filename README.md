@@ -1,10 +1,16 @@
 <div align="center">
 
-# Hi, I'm Sriya 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%" />
 
-**AI/ML Enthusiast · Python Developer · Lifelong Learner**
+```
+🤖 AGENT: oops-ai | STATUS: online | MISSION: build intelligent systems
+```
 
-I build things with data, break things with curiosity, and fix things with coffee.
+# Sriya Chowdary Chava
+
+**AI/ML Engineer in training · Building agents that think, learn, and adapt**
+
+I don't just write code — I teach machines to learn from it.
 
 [![Gmail](https://img.shields.io/badge/-sriyachowdary3434-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sriyachowdary3434@gmail.com)
 [![GitHub](https://img.shields.io/badge/-oops--ai-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/oops-ai)
@@ -14,34 +20,41 @@ I build things with data, break things with curiosity, and fix things with coffe
 
 &nbsp;
 
-#### What I work with
+#### 🧠 Agent Capabilities
 
-**Languages:** &nbsp; Python · JavaScript · SQL
+```yaml
+core_skills:
+  languages:    [Python, JavaScript, SQL]
+  ml_frameworks: [TensorFlow, PyTorch, Scikit-learn]
+  data_tools:   [Pandas, NumPy, Matplotlib, Jupyter]
+  vision:       [OpenCV, Image Processing]
+  platforms:    [Google Colab, VS Code, Linux, Git]
 
-**AI/ML:** &nbsp; TensorFlow · PyTorch · Scikit-learn · OpenCV
-
-**Data:** &nbsp; Pandas · NumPy · Matplotlib · Jupyter · Google Colab
-
-**Tools:** &nbsp; Git · VS Code · Linux · Anaconda
-
-&nbsp;
-
-#### What I'm up to
-
-- 🔬 &nbsp; Exploring deep learning and generative AI
-- 📊 &nbsp; Building end-to-end ML pipelines
-- 🌱 &nbsp; Learning something new every single day
-- 🤝 &nbsp; Open to collaborations on AI/ML projects
+focus_areas:
+  - Deep Learning & Neural Networks
+  - Natural Language Processing
+  - Computer Vision
+  - Agentic AI & Autonomous Systems
+```
 
 &nbsp;
 
-#### GitHub at a glance
+#### 📡 Current Objectives
+
+- 🔭 &nbsp; Training models & experimenting with agentic workflows
+- 🧪 &nbsp; Building end-to-end ML pipelines — from raw data to deployment
+- 🌐 &nbsp; Exploring how LLMs reason, plan, and use tools
+- ⚡ &nbsp; Turning messy data into intelligent decisions
+
+&nbsp;
+
+#### 📊 Agent Performance Metrics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=oops-ai&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=oops-ai&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=A855F7&text_color=c9d1d9&count_private=true&hide_title=true" />
 &nbsp;&nbsp;&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=oops-ai&hide_border=true&background=00000000&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=oops-ai&hide_border=true&background=00000000&ring=A855F7&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 </div>
 
@@ -49,7 +62,7 @@ I build things with data, break things with curiosity, and fix things with coffe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oops-ai&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff15&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oops-ai&bg_color=00000000&color=A855F7&line=A855F7&point=c9d1d9&area=true&area_color=A855F720&hide_border=true&custom_title=Contribution%20Signal" width="95%" />
 
 </div>
 
@@ -64,5 +77,11 @@ I build things with data, break things with curiosity, and fix things with coffe
 &nbsp;
 
 <div align="center">
-<sub>⭐ From <a href="https://github.com/oops-ai">oops-ai</a> — thanks for stopping by!</sub>
+
+```
+> agent.status()
+  Ready for collaboration. Accepting new missions.
+  Star ⭐ a repo to boost signal strength.
+```
+
 </div>
