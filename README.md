@@ -18,20 +18,27 @@
 
 ## 🧠 About Me
 
-```python
-class SriyaChowdary:
-    def __init__(self):
-        self.name = "Sriya Chowdary Chava"
-        self.role = "AI/ML Enthusiast"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        self.interests = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
-        self.fun_fact = "I debug with print statements and I'm not ashamed 😄"
+```console
+sriya@oops-ai:~$ whoami
+> Sriya Chowdary Chava — AI/ML Enthusiast 🤖
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+sriya@oops-ai:~$ cat interests.txt
+> 🧠 Machine Learning
+> 🔥 Deep Learning
+> 💬 Natural Language Processing
+> 👁️ Computer Vision
 
-me = SriyaChowdary()
-me.say_hi()
+sriya@oops-ai:~$ ls skills/
+> Python   JavaScript   SQL   TensorFlow   PyTorch
+
+sriya@oops-ai:~$ cat currently_working_on.txt
+> 🚀 Building cool AI projects & learning something new every day
+
+sriya@oops-ai:~$ echo $FUN_FACT
+> I debug with print statements and I'm not ashamed 😄
+
+sriya@oops-ai:~$ exit
+> Thanks for dropping by! Let's build something amazing together! 💜
 ```
 
 ---
