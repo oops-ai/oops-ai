@@ -88,12 +88,12 @@ I'm Sriya, an AI/ML enthusiast who's obsessed with building systems that can thi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=oops-ai&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E0D0FF&icon_color=9B8EC4&text_color=AAAAAA&ring_color=4A3F6B&count_private=true" alt="Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oops-ai&hide_border=true&background=0D0D0D&ring=4A3F6B&fire=E0D0FF&currStreakLabel=9B8EC4&sideLabels=AAAAAA&dates=444444&currStreakNum=E0D0FF&sideNums=AAAAAA" alt="Streak" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oops-ai&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E0D0FF&icon_color=9B8EC4&text_color=AAAAAA&ring_color=4A3F6B&count_private=true" alt="Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=oops-ai&hide_border=true&background=0D0D0D&ring=4A3F6B&fire=E0D0FF&currStreakLabel=9B8EC4&sideLabels=AAAAAA&dates=444444&currStreakNum=E0D0FF&sideNums=AAAAAA" alt="Streak" />
 
 <br/>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-ai&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E0D0FF&text_color=AAAAAA" alt="Languages" />
+<img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oops-ai&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E0D0FF&text_color=AAAAAA" alt="Languages" />
 
 </div>
 
