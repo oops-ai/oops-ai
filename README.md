@@ -1,21 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,25:1C1C2E,50:4A3F6B,75:1C1C2E,100:0D0D0D&height=250&section=header&text=SRIYA%20CHOWDARY&fontSize=50&fontColor=E0D0FF&animation=twinkling&fontAlignY=32&desc=%F0%9F%A4%96%20AI%20Agent%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descSize=20&descColor=9B8EC4&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,25:1C1C2E,50:4A3F6B,75:1C1C2E,100:0D0D0D&height=250&section=header&text=SRIYA%20CHOWDARY&fontSize=50&fontColor=E0D0FF&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Agent%20Builder&descSize=20&descColor=9B8EC4&descAlignY=55" width="100%" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3000&pause=800&color=9B8EC4&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%96%B2+Initializing+Agent+oops-ai...;%E2%96%B2+Systems+Awakened.+All+Models+Loaded.;%E2%96%B2+Ready+to+Deploy+Intelligence." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3000&pause=800&color=9B8EC4&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%96%B2+Building+intelligent+systems...;%E2%96%B2+Training+models.+Crafting+agents.;%E2%96%B2+Turning+data+into+magic." alt="Typing SVG" /></a>
 
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/AGENT-oops--ai-E0D0FF?style=for-the-badge&logo=probot&logoColor=0D0D0D&labelColor=1C1C2E" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-B8FFD4?style=for-the-badge&logo=statuspage&logoColor=0D0D0D&labelColor=1C1C2E" />
-<img src="https://img.shields.io/badge/MISSION-BUILD%20AI-B8D4FF?style=for-the-badge&logo=openai&logoColor=0D0D0D&labelColor=1C1C2E" />
+<img src="https://img.shields.io/badge/FOCUS-AI%2FML-E0D0FF?style=for-the-badge&logo=brain&logoColor=0D0D0D&labelColor=1C1C2E" />
+<img src="https://img.shields.io/badge/BUILDS-AGENTS-B8FFD4?style=for-the-badge&logo=probot&logoColor=0D0D0D&labelColor=1C1C2E" />
+<img src="https://img.shields.io/badge/CODES%20IN-PYTHON-B8D4FF?style=for-the-badge&logo=python&logoColor=0D0D0D&labelColor=1C1C2E" />
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=oops-ai&style=for-the-badge&color=4A3F6B&labelColor=1C1C2E&label=PROFILE+SCANS" />
-<a href="https://github.com/oops-ai?tab=followers"><img src="https://img.shields.io/github/followers/oops-ai?style=for-the-badge&color=4A3F6B&labelColor=1C1C2E&logo=github&label=ALLIES" /></a>
+<img src="https://komarev.com/ghpvc/?username=oops-ai&style=for-the-badge&color=4A3F6B&labelColor=1C1C2E&label=PROFILE+VIEWS" />
+<a href="https://github.com/oops-ai?tab=followers"><img src="https://img.shields.io/github/followers/oops-ai?style=for-the-badge&color=4A3F6B&labelColor=1C1C2E&logo=github&label=FOLLOWERS" /></a>
 
 </div>
 
@@ -26,7 +26,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🕯️ Agent Profile</h3>
+<h3 align="center">🕯️ About Me</h3>
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I'm Sriya, an AI/ML enthusiast who's obsessed with building systems that can thi
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🔮 Current Missions</h3>
+<h3 align="center">🔮 What I'm Up To</h3>
 
 🌙 &nbsp; Training deep learning models & experimenting with agents
 
@@ -49,7 +49,7 @@ I'm Sriya, an AI/ML enthusiast who's obsessed with building systems that can thi
 
 🌑 &nbsp; Exploring how LLMs reason, plan & use tools
 
-🤖 &nbsp; Creating autonomous AI systems
+🤖 &nbsp; Building autonomous AI agents
 
 🗡️ &nbsp; Turning messy data into intelligent decisions
 
@@ -84,7 +84,7 @@ I'm Sriya, an AI/ML enthusiast who's obsessed with building systems that can thi
 
 <br/>
 
-<h2 align="center">🕯️ Agent Performance</h2>
+<h2 align="center">🕯️ GitHub Stats</h2>
 
 <div align="center">
 
@@ -100,7 +100,7 @@ I'm Sriya, an AI/ML enthusiast who's obsessed with building systems that can thi
 <br/>
 
 
-<h2 align="center">📈 Contribution Signal</h2>
+<h2 align="center">📈 Contributions</h2>
 
 <div align="center">
 
@@ -132,7 +132,7 @@ I'm Sriya, an AI/ML enthusiast who's obsessed with building systems that can thi
 
 <div align="center">
 
-<h2>🖤 Connect with the Agent</h2>
+<h2>🖤 Let's Connect</h2>
 
 <a href="mailto:sriyachowdary3434@gmail.com"><img src="https://img.shields.io/badge/Gmail-E0D0FF?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=1C1C2E" /></a>
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-E0D0FF?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=1C1C2E" /></a>
@@ -142,7 +142,7 @@ I'm Sriya, an AI/ML enthusiast who's obsessed with building systems that can thi
 <br/>
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=14&duration=4000&pause=2000&color=9B8EC4&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%AD%90+Star+a+repo+to+boost+signal+strength;%F0%9F%A4%9D+Open+for+collabs%2C+internships+%26+AI+missions" alt="Footer" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=14&duration=4000&pause=2000&color=9B8EC4&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%AD%90+Star+a+repo+if+you+like+what+you+see;%F0%9F%A4%9D+Open+for+collabs%2C+internships+%26+cool+projects" alt="Footer" /></a>
 
 </div>
 
