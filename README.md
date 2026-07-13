@@ -119,8 +119,6 @@ I'm Sriya, an AI/ML enthusiast who's obsessed with building systems that can thi
 
 <br/>
 
-<h2 align="center">🐍 The Snake Hunts My Contributions</h2>
-
 <div align="center">
 
 <picture>
